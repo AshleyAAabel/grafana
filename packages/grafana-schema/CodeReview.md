@@ -1,6 +1,6 @@
-## Code review for https://github.com/AshleyAAabel/grafana/blob/main/packages/grafana-schema/src/common/common.gen.ts
-
 ### Based on code comment guidelines here: https://github.com/grafana/grafana/blob/main/contribute/style-guides/code-comments.md
+
+## Code review for https://github.com/AshleyAAabel/grafana/blob/main/packages/grafana-schema/src/common/common.gen.ts
 
   While some of the exports on this page have proper documentation, the majority of the exports still have the documentation listed as TODO. Though many of the names for the exports are descriptive and their functionality can be assumed, there is still some ambiguity. It would be a good idea to finish the documentation as figuring out what some of these exports do can seem a little intimidating.
 
